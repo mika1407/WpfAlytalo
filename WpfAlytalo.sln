@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAlytalo", "WpfAlytalo\WpfAlytalo.csproj", "{D42112EC-D591-4D05-A7E0-1A77DFF7A989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42112EC-D591-4D05-A7E0-1A77DFF7A989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42112EC-D591-4D05-A7E0-1A77DFF7A989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42112EC-D591-4D05-A7E0-1A77DFF7A989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42112EC-D591-4D05-A7E0-1A77DFF7A989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3D63D2-D005-4808-A9C5-C67812A38484}
+	EndGlobalSection
+EndGlobal
